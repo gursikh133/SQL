@@ -1,1 +1,2 @@
 This is the very importanmt fiorst file to understand GIT
+This is the second row in the same file.
